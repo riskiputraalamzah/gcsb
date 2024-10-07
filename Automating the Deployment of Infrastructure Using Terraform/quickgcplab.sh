@@ -40,7 +40,7 @@ mkdir instance
 
 cd instance
 
-wget https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/main.tf
+wget https://raw.githubusercontent.com/riskiputraalamzah/gcsb/refs/heads/main/Automating%20the%20Deployment%20of%20Infrastructure%20Using%20Terraform/main.tf
 
 cd ..
 
